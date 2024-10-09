@@ -9,3 +9,4 @@ const getTimeString = (time)=>{
 }
 
 console.log(getTimeString(45465));
+console.log(getTimeString(454658));
